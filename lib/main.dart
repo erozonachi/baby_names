@@ -4,11 +4,11 @@ import 'package:flutter/material.dart';
 void main() => runApp(MyApp());
 
 final dummySnapshot = [
- {"name": "Filip", "votes": 15},
- {"name": "Abraham", "votes": 14},
- {"name": "Richard", "votes": 11},
+ {"name": "Ebube", "votes": 15},
+ {"name": "Munachimso", "votes": 14},
+ {"name": "Obidike", "votes": 11},
  {"name": "Ike", "votes": 10},
- {"name": "Justin", "votes": 1},
+ {"name": "Anunweluobi", "votes": 1},
 ];
 
 class MyApp extends StatelessWidget {

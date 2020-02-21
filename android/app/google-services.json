@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "494022384399",
+    "firebase_url": "https://baby-names-app-db-6659b.firebaseio.com",
+    "project_id": "baby-names-app-db-6659b",
+    "storage_bucket": "baby-names-app-db-6659b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:494022384399:android:3bd18921aea09ea734bc7a",
+        "android_client_info": {
+          "package_name": "com.codemaker.baby_names"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "494022384399-u5v62875t0365e87sc3e4i8otio73sg5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAG_08Ro5qHR6ZyWn9bVj8pxLxh2RGlGXY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "494022384399-u5v62875t0365e87sc3e4i8otio73sg5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "494022384399-nh8t4769075g9gpm3vho2pd2eu0pvsea.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.codemaker.babyNames"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:494022384399:android:0d1a6fbe782ce61a34bc7a",
+        "android_client_info": {
+          "package_name": "com.example.baby_names"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "494022384399-u5v62875t0365e87sc3e4i8otio73sg5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAG_08Ro5qHR6ZyWn9bVj8pxLxh2RGlGXY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "494022384399-u5v62875t0365e87sc3e4i8otio73sg5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "494022384399-nh8t4769075g9gpm3vho2pd2eu0pvsea.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.codemaker.babyNames"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
